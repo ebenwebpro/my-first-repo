@@ -6,5 +6,3 @@ This line was born on a branch
 
 This change arrived via pull request
 
-THIS WAS A MISTAKE
-
